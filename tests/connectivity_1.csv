@@ -1,0 +1,49 @@
+srcPort, destPort, Width ,Frequency (Mhz)
+
+abc_0.port_abc0_0, abc_1.port_abc1_4, 710, 14
+
+abc_1.port_abc1_1, abc_2.port_abc1_3, 710, 14
+
+abc_2.port_abc3_2, abc_3.port_abc1_2, 710, 14
+
+abc_3.port_abc3_3, abc_1.port_abc1_1, 710, 14
+
+abc_4.port_abc4_4, abc_0.port_abc1_0, 710, 14
+
+abc_4.port_abc4_5, abc_3.port_abc1_4, 710, 14
+
+abc_3.port_abc3_0, abc_0.port_abc1_3, 710, 14
+
+abc_2.port_abc3_1, abc_1.port_abc1_2, 710, 14
+
+abc_1.port_abc1_2, abc_0.port_abc1_1, 710, 14
+
+abc_0.port_abc0_3, abc_4.port_abc1_0, 710, 14
+
+abc_2.port_abc3_4, abc_0.port_abc1_4, 710, 14
+
+abc_1.port_abc1_0, abc_2.port_abc1_3, 710, 14
+
+abc_4.port_abc4_1, abc_0.port_abc1_2, 710, 14
+
+abc_3.port_abc3_2, abc_4.port_abc1_1, 710, 14
+
+abc_4.port_abc4_3, abc_0.port_abc1_0, 710, 14
+
+abc_0.port_abc0_3, abc_1.port_abc1_4, 710, 14
+
+abc_1.port_abc1_0, abc_2.port_abc1_3, 710, 14
+
+abc_3.port_abc3_1, abc_1.port_abc1_2, 710, 14
+
+abc_4.port_abc4_2, abc_0.port_abc1_1, 710, 14
+
+abc_4.port_abc4_3, abc_3.port_abc1_0, 710, 14
+
+abc_1.port_abc1_4, abc_3.port_abc1_4, 710, 14
+
+abc_3.port_abc3_0, abc_0.port_abc1_3, 710, 14
+
+abc_4.port_abc4_1, abc_1.port_abc1_2, 710, 14
+
+abc_0.port_abc0_2, abc_1.port_abc1_1, 710, 14

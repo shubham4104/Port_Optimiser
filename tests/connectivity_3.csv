@@ -1,0 +1,23 @@
+srcPort, destPort, Width ,Frequency (Mhz)
+
+fgh_0.port_fgh0_1, xyz_0.port_xyz0_1, 350, 14
+
+fgh_0.port_fgh0_2, xyz_1.port_xyz1_1, 350, 10
+
+fgh_0.port_fgh0_2, xyz_2.port_xyz2_1, 350, 10
+
+fgh_0.port_fgh0_3, fgh_1.port_fgh1_1, 922, 11
+
+abc_2.port_abc2_1, xyz_2.port_xyz2_2, 1708, 4
+
+abc_2.port_abc2_2, xyz_3.port_xyz3_1, 1279, 12
+
+abc_2.port_abc2_3, fgh_2.port_fgh2_1, 1565, 15
+
+fgh_2.port_fgh2_2, xyz_3.port_xyz3_2, 1279, 18
+
+abc_2.port_abc2_3, abc_3.port_abc3_1, 1565, 7
+
+abc_0.port_abc0_1, abc_1.port_abc1_1, 1636, 6
+
+abc_0.port_abc0_2, xyz_2.port_xyz2_3, 1636, 9
